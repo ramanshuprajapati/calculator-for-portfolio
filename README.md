@@ -23,3 +23,6 @@ It performs standard arithmetic operations and uses **Local Storage** to save th
 - After every valid calculation, the result is saved to `localStorage`.
 - When the page reloads, the calculator checks for existing saved result and displays it.
 
+## 📸 App Screenshot
+
+![App Screenshot](./screenshot.png)
